@@ -1,5 +1,7 @@
 # Daily Lives of High School Boys WhatsApp Stickers
 
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
+"80">](https://play.google.com/store/apps/details?id=com.karan.StickersDLOHSB)
 <p align="center">
   <img src="https://lh3.googleusercontent.com/5Ox9JTXEaby23utqR9OzjuihimIWhzBogjh4oQbBYaisrM8awrh4gXwjg6nzH5eC5tk=s180">
 </p>
@@ -15,5 +17,3 @@
 Daily Lives of High School Boys (Danshi Koukousei no Nichijou) stickers for WhatsApp Messenger. The sticker images are not owned by me but are "kanged" from a telegram sticker pack by someone else. Also the original images for the sticker material are downloaded from random blogging websites as well. Since this is just an experiment and I don't use WhatsApp messenger myself I may or may not update this project. 
 
 If I am infringing copyright of this animated TV show, please contact me to get the project removed.
-
-Google Play: https://play.google.com/store/apps/details?id=com.karan.StickersDLOHSB
