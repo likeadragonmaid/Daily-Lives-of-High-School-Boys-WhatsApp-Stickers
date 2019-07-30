@@ -1,4 +1,7 @@
 # Daily Lives of High School Boys WhatsApp Stickers
+Daily Lives of High School Boys (Danshi Koukousei no Nichijou) stickers for WhatsApp Messenger. No advertisements or tracking.
+
+Total no. of stickers: 60
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height=
 "80">](https://play.google.com/store/apps/details?id=com.karan.StickersDLOHSB)
